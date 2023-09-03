@@ -41,12 +41,12 @@ nav ul a:hover{
 .items
 {
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(1,2fr);
     padding: 30px 20px;
-    grid-column-gap: 20px;
+    grid-column-gap: 30px;
     grid-row-gap: 30px;
-    display: grid;
-    grid-template-columns: auto auto auto;
+    display: flex auto;
+    grid-template-columns:auto auto auto;
     
 }
 .item img{
