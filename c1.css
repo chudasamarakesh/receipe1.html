@@ -1,0 +1,351 @@
+.hero__sect
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/dabeli6.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero__secti
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/dhosa1.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero__sec
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/manchuri4.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero__se
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/pavbhaji7.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero__s
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/burger5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/dhokla9.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.her
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/rice5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.he
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/panipuri5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.h
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/pizza5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/pasta5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/samosa6.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/dahipuri8.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero4
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/noodles5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero5
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/dalbati9.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero6
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/vada6.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero7
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/aloo\ chips7.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero8
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/gathiya6.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero9
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/uttapam7.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero10
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/khaman6.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero11
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/toaster5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero12
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/idli6.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero13
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/maggi8.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero14
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/pakoda8.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero15
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/bhajiya7.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero16
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/chips7.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero17
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/hotdog5.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
+.hero18
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+   background-color: rgb(212, 70, 19);
+   background-image:url(../receipe/vadapav7.jpg);
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top: 10px;
+}
